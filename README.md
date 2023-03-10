@@ -1,3 +1,5 @@
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levtus&show_icons=true&theme=github_dark&layout=compact"></a>
+
 ### Hi! I'm Alex
 I'm a hobbyist developer with a little bit of experience in webdev and C++.
 
@@ -15,7 +17,6 @@ I'm a hobbyist developer with a little bit of experience in webdev and C++.
 
 ### Tools :
 
-<html>
 <div id="tools">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" style="width: 5%"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" style="width: 5%"> 
@@ -23,9 +24,3 @@ I'm a hobbyist developer with a little bit of experience in webdev and C++.
   <img src="https://i.imgur.com/51dSsGk.png" style="width: 5%"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" style="width: 5%"> 
 </div>
-</html>
- 
----
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levtus&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
