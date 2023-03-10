@@ -1,8 +1,6 @@
 ### Hi! I'm Alex
 I'm a hobbyist developer with a little bit of experience in webdev and C++.
 
-I have also used LUA and JS on occasion.
-
 ---
 
 ### Languages : 
