@@ -1,4 +1,4 @@
-<img align="right" style="float:right; width:50%" src="https://github-readme-stats.vercel.app/api/?username=levtus&show_icons=true&theme=slateorange&layout=compact">
+<img align="right" style="float:right; width:50%" src="https://github-readme-stats.vercel.app/api/?username=levtus&show_icons=true&theme=vue-dark&layout=compact">
 
 
 ### Hi! I'm Alex
@@ -15,7 +15,7 @@ I'm a hobbyist developer with a little bit of experience in webdev and C++.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width: 4%"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" style="width: 4%"> 
 </div>
-<img align="right" style="float:right; width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levtus&show_icons=true&theme=slateorange&layout=compact">
+<img align="right" style="float:right; width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levtus&show_icons=true&theme=vue-dark&layout=compact">
 
 ### Tools :
 
