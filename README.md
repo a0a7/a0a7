@@ -2,7 +2,7 @@
 
 
 ### Hi! I'm Alex
-I'm a hobbyist developer with a little bit of experience in webdev and C++.
+I'm a hobbyist developer with a little bit of web and C++ experience.
 
 
 ---
