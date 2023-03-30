@@ -2,6 +2,7 @@
 
 ### Hi! I'm Alex
 I'm a hobbyist developer with a little bit of web and C++ experience.
+I'm marginally familian with a number of GIS tools, such as leaflet.js and QGIS.
 
 
 ---
