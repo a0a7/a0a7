@@ -26,4 +26,5 @@ I'm a hobbyist developer with a little bit of web and C++ experience.
   <img src="https://i.imgur.com/51dSsGk.png" style="width: 4%"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" style="width: 4%"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/256px-QGIS_logo_new.svg.png?20180406083750" style="width: 4%"> 
+  <img src="https://pbs.twimg.com/profile_images/1510602617700950021/K4IoVubu_400x400.jpg" style="width: 4%"> 
 </div>
