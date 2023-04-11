@@ -14,6 +14,7 @@ I'm marginally familian with a number of GIS tools, such as leaflet.js and QGIS.
   <img src="css.png" style="width: 5%"> 
   <img src="js.png" style="width: 5%"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" style="width: 4%"> 
+  <img src="line.png" style="width: 5%"> 
 </div>
 
 
