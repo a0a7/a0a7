@@ -1,8 +1,8 @@
 <img align="right" style="float:right; width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levtus&show_icons=true&theme=vue-dark&layout=compact">
 
 ### Hi! My name is Alexander, or Levtus/Lev online.
-I'm a hobbyist developer with a little bit of (full-stack) web and C++ experience.
-I'm marginally familiar with a number of GIS tools, including as leaflet.js and QGIS.
+I'm a hobbyist developer with a little bit of web and C++ experience.
+I'm moderately familiar with a number of GIS tools, including leaflet.js and QGIS.
 
 
 ---
