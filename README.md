@@ -14,7 +14,13 @@ I'm also fairly familiar with a number of GIS tools, including leaflet.js and QG
   <img src="html.png" style="width: 5%" > 
   <img src="css.png" style="width: 5%"> 
   <img src="js.png" style="width: 5%"> 
+  <img src="line.png" style="width: 2%"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" style="width: 5%">
+  <img src="mojo.png" style="width: 5%">
+  <img src="line.png" style="width: 2%"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" style="width: 4%">
+
+
 <!--   
 <img src="line.png" style="width: 2%"> 
   <img src="https://em-content.zobj.net/thumbs/120/google/110/flag-for-sweden_1f1f8-1f1ea.png" style="width: 5%"> 
