@@ -1,7 +1,7 @@
 <img align="right" style="float:right; width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levtus&show_icons=true&theme=github_dark_dimmed&layout=compact">
 
 ### My name is Alexander, sometimes Lev online.
-I'm a hobbyist developer familiar with webdev and Python; with a little C++ and Java experience.
+I'm a hobbyist developer moderately familiar with webdev and Python; with a little C++ and Java experience.
 
 ---
 
