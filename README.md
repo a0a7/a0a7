@@ -14,8 +14,6 @@ I'm a hobbyist developer moderately familiar with webdev and Python; with a litt
   <img src="line.png" style="width: 2%"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 5%">
   <img src="mojo.png" style="width: 5%">
-  <img src="line.png" style="width: 2%"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" style="width: 4%">
 
 
 <!--   
@@ -30,6 +28,9 @@ I'm a hobbyist developer moderately familiar with webdev and Python; with a litt
 ### Tools :
 
 <div id="tools">
+  <img src="latex.png" style="width: 4%"> 
+  <img src="line.png" style="width: 2%"> 
+  <img src="leaflet.png" style="width: 4%"> 
   <img src="leaflet.png" style="width: 4%"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" style="width: 4%">
   <img src="line.png" style="width: 2%"> 
