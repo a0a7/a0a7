@@ -28,7 +28,7 @@ I'm a hobbyist developer moderately familiar with webdev and Python; with a litt
 ### Tools :
 
 <div id="tools">
-  <img src="latex.png" style="width: 4%"> 
+  <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" style="width: 4%"> 
   <img src="line.png" style="width: 2%"> 
   <img src="leaflet.png" style="width: 4%"> 
   <img src="leaflet.png" style="width: 4%"> 
