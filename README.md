@@ -11,12 +11,12 @@ I'm a hobbyist developer moderately familiar with webdev and Python; with a litt
   <img src="html.png" style="width: 5%" > 
   <img src="css.png" style="width: 5%"> 
   <img src="js.png" style="width: 5%"> 
-  <img src="line.png" style="width: 2%">
+  <!-- <img src="line.png" style="width: 2%">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="width: 5%">
-  <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 5%"> -->
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 5%"> -->
   <img src="line.png" style="width: 2%">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 5%">
-<img src="mojo.png" style="width: 5%">
+  <!-- <img src="mojo.png" style="width: 5%"> -->
 
 
 <!--   
@@ -28,8 +28,8 @@ I'm a hobbyist developer moderately familiar with webdev and Python; with a litt
 </div>
 
 
-### Familiar Libraries :
 <!--   
+
 <div id="tools">
   <img src="leaflet.png" style="width: 4%"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" style="width: 4%">
