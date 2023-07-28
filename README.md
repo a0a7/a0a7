@@ -5,17 +5,18 @@ I'm a hobbyist developer moderately familiar with webdev and Python; with a litt
 
 ---
 
-### Languages : 
+### Tools : 
 
 <div id="languages">
   <img src="html.png" style="width: 5%" > 
   <img src="css.png" style="width: 5%"> 
   <img src="js.png" style="width: 5%"> 
-  <img src="line.png" style="width: 2%"> 
+  <img src="line.png" style="width: 2%">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="width: 5%">
+  <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 5%"> -->
+  <img src="line.png" style="width: 2%">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 5%">
-  <img src="mojo.png" style="width: 5%">
-  <img src="line.png" style="width: 2%"> 
-  <img src="tex.png" style="width: 4%"> 
+<img src="mojo.png" style="width: 5%">
 
 
 <!--   
@@ -27,16 +28,12 @@ I'm a hobbyist developer moderately familiar with webdev and Python; with a litt
 </div>
 
 
-### Tools :
-
+### Familiar Libraries :
+<!--   
 <div id="tools">
   <img src="leaflet.png" style="width: 4%"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" style="width: 4%">
   <img src="line.png" style="width: 2%"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" style="width: 4%">
-  <img src="line.png" style="width: 2%">
-  <img src="https://i.ibb.co/kSYBHvW/6a00d83451706569e2017d3ca87d4c970c-removebg-preview.png" style="width: 4%"> 
-  <img src="https://www.blockbench.net/images/logos/icon.png" style="width: 4%"> 
-  <img src="https://i.imgur.com/51dSsGk.png" style="width: 4%"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" style="width: 4%"> 
 </div>
+-->
