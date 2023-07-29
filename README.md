@@ -10,11 +10,10 @@ I'm a hobbyist developer moderately familiar with webdev and Python; with a litt
 <div id="languages">
   <img src="html.png" style="width: 5%" > 
   <img src="css.png" style="width: 5%"> 
-  <img src="js.png" style="width: 5%"> 
-  <!-- <img src="line.png" style="width: 2%">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="width: 5%">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 5%"> -->
+  <img src="js.png" style="width: 5%">
   <img src="line.png" style="width: 2%">
+  <!-- <img src="line.png" style="width: 2%">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 5%"> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 5%">
   <!-- <img src="mojo.png" style="width: 5%"> -->
 
@@ -26,7 +25,11 @@ I'm a hobbyist developer moderately familiar with webdev and Python; with a litt
   <img src="https://em-content.zobj.net/thumbs/120/google/110/flag-for-germany_1f1e9-1f1ea.png" style="width: 5%"> 
 -->
 </div>
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="width: 5%">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" style="width: 5%">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" style="width: 5%">
+</div>
 
 <!--   
 
