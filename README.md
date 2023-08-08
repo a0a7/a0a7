@@ -29,6 +29,9 @@ I'm a hobbyist developer moderately familiar with front-end web and Python devel
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="width: 5%">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" style="width: 5%">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" style="width: 5%">
+  <img src="line.png" style="width: 2%">
+
+  <img src="mojo.png" style="width: 5%">
 </div>
 
 <!--   
