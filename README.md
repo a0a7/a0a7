@@ -5,8 +5,6 @@ I'm a hobbyist developer moderately familiar with front-end web and Python devel
 
 ---
 
-### Tools : 
-
 <div id="languages">
   <img src="html.png" style="width: 5%" > 
   <img src="css.png" style="width: 5%"> 
