@@ -1,7 +1,7 @@
 <img align="right" style="float:right; width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandsr&show_icons=true&theme=github_dark&layout=compact">
 
 ### My name is Alexander, sometimes Lev online.
-I know front-end-web, Python and Java development. Learning C++.
+I do web and Java development. Learning C++ & Go.
 
 ---
 
