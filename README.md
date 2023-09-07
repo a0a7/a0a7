@@ -10,11 +10,9 @@ I do web and Java development. Learning C++ & Go.
   <img src="css.png" style="width: 5%"> 
   <img src="js.png" style="width: 5%">
   <img src="line.png" style="width: 2%">
-  <!-- <img src="line.png" style="width: 2%">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 5%"> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="width: 5%">
+  <img src="line.png" style="width: 2%">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 5%">
-  <!-- <img src="mojo.png" style="width: 5%"> -->
-
 
 <!--   
 <img src="line.png" style="width: 2%"> 
@@ -28,8 +26,9 @@ I do web and Java development. Learning C++ & Go.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" style="width: 5%">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" style="width: 5%">
   <img src="line.png" style="width: 2%">
-
-  <img src="mojo.png" style="width: 5%">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" style="width: 5%">
+  <!--<img src="line.png" style="width: 2%">
+  <img src="mojo.png" style="width: 5%">-->
 </div>
 
 <!--   
