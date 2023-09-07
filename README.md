@@ -22,11 +22,12 @@ I do web and Java development. Learning C++ & Go.
 -->
 </div>
 <div>
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="width: 5%">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" style="width: 5%">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" style="width: 5%">
   <img src="line.png" style="width: 2%">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" style="width: 5%">
+  <img src="https://github.com/alexandsr/alexandsr/assets/61996958/7af88d5b-343e-4572-8260-eddb6bd8ad57" style="width: 5%">
   <!--<img src="line.png" style="width: 2%">
   <img src="mojo.png" style="width: 5%">-->
 </div>
