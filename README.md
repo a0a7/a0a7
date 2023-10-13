@@ -1,6 +1,5 @@
 <img align="right" style="float:right; width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudolev&show_icons=true&theme=github_dark&layout=compact">
 
-
 ### My name is Alexander, sometimes Lev online.
 I do web and Java development. Learning C++ & Go.
 
