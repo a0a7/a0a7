@@ -1,6 +1,8 @@
+<!--   
+
 <img align="right" style="float:right; width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudolev&show_icons=true&theme=github_dark&layout=compact">
 
-<!--   
+
 <div id="languages">
   <img src="html.png" style="width: 5%" > 
   <img src="css.png" style="width: 5%"> 
