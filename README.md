@@ -1,3 +1,5 @@
+<img src="https://badges.strrl.dev/years/sudolev"> <img src="https://badges.strrl.dev/contributions/all/sudolev"> <img src="https://badges.strrl.dev/issues-and-prs/all/sudolev">
+
 <!--   
 
 <img align="right" style="float:right; width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudolev&show_icons=true&theme=github_dark&layout=compact">
