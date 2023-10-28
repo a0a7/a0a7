@@ -1,4 +1,4 @@
-<img src="https://badges.strrl.dev/years/sudolev"> <img src="https://badges.strrl.dev/contributions/all/sudolev"> <img src="https://badges.strrl.dev/issues-and-prs/all/sudolev">
+<img src="https://badges.strrl.dev/years/sudolev"> <img src="https://badges.strrl.dev/contributions/all/sudolev">
 
 <!--   
 
