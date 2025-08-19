@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/dynamic/json?&label=All%20Stars&style=flat&color=bright-green&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/a0a7">
 </div>
 <br>
-links:
 
 [![Modrinth Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fa0a7%2Fmodrinthdownloads%2Frefs%2Fheads%2Fmain%2Fmodrinth-downloads.json&logoColor=white&label=Modrinth%20%2F%20a0a7&labelColor=2ebf31&color=262b30)](https://modrinth.com/user/a0a7) 
 [![CurseForge Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fa0a7%2Fmodrinthdownloads%2Fheads%2Fmain%2Fcurseforge-downloads.json&logo=curseforge&logoColor=white&label=Curseforge%20%2F%20a0a7&labelColor=e76232&color=262b30)](https://www.curseforge.com/members/a0a7/)
